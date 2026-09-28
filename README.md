@@ -1,0 +1,2 @@
+Android app that converts voice recordings into structured entries for food, workouts, habits, health, and finances. Offline speech-to-text (Vosk) feeds an LLM that categorizes entries and stores them. Built offline-first: recordings queue locally, retry with exponential backoff, and resume once the network returns. Includes AI-generated daily summaries delivered as notifications and a Tesseract-based receipt scanner for Cyrillic text. Built for personal daily use.
+
